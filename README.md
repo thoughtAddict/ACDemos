@@ -4,7 +4,8 @@ ACDemos - Application Craft Demos
 
 Each application demo of this repository will test certain features of the Application Craft's online, cloud-based IDE.  Each app's goal is to provide a simple example of a single -- or small group of -- AC IDE features.
 
-    <h2>WidgetTest1:</h2>   
+    WidgetTest1:
+    ---
 
     Examples of-
 
