@@ -17,7 +17,7 @@ Of course, if you find a better way to code something in one of the demos, pleas
             animation easing ('in' and 'out', 32 possible values for each)
 
         AC IDE:
-        	onAppStarted()
+            onAppStarted()
             getValue()
             setValue()
             getProperty()
@@ -25,23 +25,27 @@ Of course, if you find a better way to code something in one of the demos, pleas
             WYSIWYG Editor (for short paragraph of instructions)
             dynamically changing the image of an ImgWidget
             
-		PhoneGap:
-			Notification Vibrate(milliseconds)
-			
-		Javascript:
-			Math.random() 
-			Math.floor()
-			
-	Notes-
-	
-		* Keep in mind that this has been designed on an Android DroidX, with a screen resolution of 320x544 (Android version 2.3.3)
-		* It was also designed to be in Portrait mode, but can work fine in Landscape.		
-		* Eventually, I'll incorporate the lock/unlock slider in another WidgetTest, which tests the AC IDE's "Adaptive Layout" functionality
-		* Comments are at the beginning of each Javascript function
-		* Browser-based demo - http://acft.ws/euc   
-			- the lock/unlock slider will popup an error due to the "vibrate()" function not being availbe in a browser
-		* I've included the HTML, Android APK, Symbian WGZ, WebOS IPK, and BlackBerry OTA files as well.
-			- I've only tested the APK however, as I only have a DroidX
+        PhoneGap:
+            Notification Vibrate(milliseconds)
+            
+        Javascript:
+            Math.random() 
+            Math.floor()
+            
+    Notes-
+    
+        * Keep in mind that this has been designed on an Android DroidX, with a screen resolution of 320x544 
+            - (Android version 2.3.3)
+        * It was also designed to be in Portrait mode, but can work fine in Landscape.      
+        * Eventually, I'll incorporate the lock/unlock slider in another WidgetTest
+            - which tests the AC IDE's "Adaptive Layout" functionality
+        * Comments are at the beginning of each Javascript function
+        * Browser-based demo - http://acft.ws/euc   
+            - the lock/unlock slider will popup an error due to the "vibrate()" function not being availbe in a browser
+        * I've included the HTML, Android APK, Symbian WGZ, WebOS IPK, and BlackBerry OTA files as well.
+            - I've only tested the APK however, as I only have a DroidX
+            
+            
 
 
 
@@ -51,3 +55,7 @@ Resources and Credits
   - [Application Craft User Guide](http://www.applicationcraft.com/revisions/current/docs/user-guide/index.html)    
   - [PhoneGap](http://www.phonegap.com/) 
   - [jQuery](http://jquery.com/)    
+  
+  
+  
+  
