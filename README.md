@@ -45,8 +45,7 @@ Of course, if you find a better way to code something in one of the demos, pleas
         * I've included the HTML, Android APK, Symbian WGZ, WebOS IPK, and BlackBerry OTA files as well.
             - I've only tested the APK however, as I only have a DroidX
             
-    [Online Demo](http://acft.ws/euc)
-
+[Online Demo](http://acft.ws/euc)
 
 
 Resources and Credits
