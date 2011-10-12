@@ -6,7 +6,7 @@ Each application in this repository will demonstrate certain features of the App
 
 Of course, if you find a better way to code something in one of the demos, please let me know. I'm *always* open to learning how to improve upon my code.
 
-### WidgetTest1: [online demo](http://acft.ws/euc)
+### WidgetTest1: 
 
     Examples of-
 
@@ -45,7 +45,7 @@ Of course, if you find a better way to code something in one of the demos, pleas
         * I've included the HTML, Android APK, Symbian WGZ, WebOS IPK, and BlackBerry OTA files as well.
             - I've only tested the APK however, as I only have a DroidX
             
-            
+    [Online Demo](http://acft.ws/euc)
 
 
 
