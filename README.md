@@ -6,7 +6,7 @@ Each application in this repository will demonstrate certain features of the App
 
 Of course, if you find a better way to code something in one of the demos, please let me know. I'm *always* open to learning how to improve upon my code.
 
-### WidgetTest1:
+### WidgetTest1: [online demo](http://acft.ws/euc)
 
     Examples of-
 
