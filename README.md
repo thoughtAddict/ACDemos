@@ -24,6 +24,7 @@ Of course, if you find a better way to code something in one of the demos, pleas
             setProperty()
             WYSIWYG Editor (for short paragraph of instructions)
             dynamically changing the image of an ImgWidget
+            isNativeApp()
             
         PhoneGap:
             Notification Vibrate(milliseconds)
@@ -40,8 +41,6 @@ Of course, if you find a better way to code something in one of the demos, pleas
         * Eventually, I'll incorporate the lock/unlock slider in another WidgetTest
             - which tests the AC IDE's "Adaptive Layout" functionality
         * Comments are at the beginning of each Javascript function
-        * Browser-based demo - http://acft.ws/euc 
-            - the lock/unlock slider will popup an error due to the "vibrate()" function not being availbe in a browser
         * I've included the HTML, Android APK, Symbian WGZ, WebOS IPK, and BlackBerry OTA files as well.
             - I've only tested the APK however, as I only have a DroidX
             
