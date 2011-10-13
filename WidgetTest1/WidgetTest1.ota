@@ -1,0 +1,154 @@
+Manifest-Version: 1.0
+MIDlet-Jar-Size: 1907822
+MicroEdition-Configuration: CLDC-1.1
+MIDlet-Version: 0.1.223
+RIM-COD-Size: 66472
+RIM-MIDlet-Flags-1: 0
+MIDlet-Name: WidgetTest1
+RIM-MIDlet-Icon-Count-1: 1
+RIM-COD-URL-9: WidgetTest1-9.cod
+RIM-COD-URL-8: WidgetTest1-8.cod
+RIM-COD-URL-7: WidgetTest1-7.cod
+RIM-COD-URL-6: WidgetTest1-6.cod
+MicroEdition-Profile: MIDP-2.0
+RIM-COD-URL-5: WidgetTest1-5.cod
+RIM-COD-URL-4: WidgetTest1-4.cod
+RIM-COD-URL-45: WidgetTest1-45.cod
+RIM-COD-URL-3: WidgetTest1-3.cod
+RIM-COD-URL-44: WidgetTest1-44.cod
+RIM-COD-URL-2: WidgetTest1-2.cod
+RIM-COD-URL-43: WidgetTest1-43.cod
+RIM-COD-URL-1: WidgetTest1-1.cod
+RIM-COD-URL-42: WidgetTest1-42.cod
+RIM-COD-URL-41: WidgetTest1-41.cod
+RIM-COD-Size-9: 56524
+RIM-COD-URL-40: WidgetTest1-40.cod
+RIM-COD-Size-8: 50572
+RIM-COD-Size-7: 50568
+RIM-COD-Size-6: 56496
+RIM-COD-Size-5: 50528
+RIM-COD-Size-4: 58684
+RIM-COD-Size-3: 36820
+RIM-COD-Size-2: 77612
+RIM-COD-Size-1: 77244
+RIM-COD-Size-45: 50740
+RIM-COD-Size-44: 48120
+RIM-COD-URL-39: WidgetTest1-39.cod
+RIM-COD-Size-43: 43068
+RIM-COD-URL-38: WidgetTest1-38.cod
+RIM-COD-Size-42: 56076
+RIM-COD-URL-37: WidgetTest1-37.cod
+RIM-COD-URL-36: WidgetTest1-36.cod
+RIM-COD-Size-41: 50432
+RIM-COD-URL-35: WidgetTest1-35.cod
+RIM-COD-Size-40: 58516
+RIM-COD-URL-34: WidgetTest1-34.cod
+RIM-COD-URL-33: WidgetTest1-33.cod
+RIM-COD-URL-32: WidgetTest1-32.cod
+RIM-COD-URL-31: WidgetTest1-31.cod
+RIM-COD-URL-30: WidgetTest1-30.cod
+RIM-COD-Module-Dependencies: net_rim_cldc,net_rim_pdap,net_rim_bb_web_jse_api,net_rim_bb_browser_field2_api,net_rim_xml_org,net_rim_os,net_rim_bbapi_phone,net_rim_bbapi_mailv2,net_rim_networkapi,net_rim_bb_browser_field_api,net_rim_xml,net_rim_bbapi_browser,net_rim_bbapi_invoke,net_rim_locationapi
+MIDlet-Vendor: ApplicationCraft
+RIM-COD-Size-39: 53108
+RIM-COD-Size-38: 50832
+RIM-COD-Size-37: 43036
+RIM-COD-Size-36: 56244
+RIM-COD-Size-35: 50928
+RIM-COD-URL-29: WidgetTest1-29.cod
+RIM-COD-Size-34: 50928
+RIM-COD-URL-28: WidgetTest1-28.cod
+RIM-COD-Size-33: 54668
+RIM-COD-URL-27: WidgetTest1-27.cod
+RIM-COD-Size-32: 50904
+RIM-COD-URL-26: WidgetTest1-26.cod
+RIM-COD-Size-31: 50904
+RIM-COD-URL-25: WidgetTest1-25.cod
+RIM-COD-Size-30: 50904
+RIM-COD-URL-24: WidgetTest1-24.cod
+RIM-COD-URL-23: WidgetTest1-23.cod
+RIM-COD-URL-22: WidgetTest1-22.cod
+RIM-COD-URL-21: WidgetTest1-21.cod
+RIM-COD-URL-20: WidgetTest1-20.cod
+RIM-COD-URL: WidgetTest1.cod
+MIDlet-Description: WidgetTest1
+RIM-COD-Module-Name: WidgetTest1
+RIM-COD-Size-29: 50904
+RIM-COD-Size-28: 50900
+RIM-MIDlet-Icon-1-1: resources\____HOVER_ICON_icon_hover.png,focused
+RIM-COD-Size-27: 50900
+RIM-COD-Size-26: 58732
+RIM-COD-Size-25: 57004
+RIM-COD-URL-19: WidgetTest1-19.cod
+RIM-COD-Size-24: 50904
+RIM-COD-URL-18: WidgetTest1-18.cod
+RIM-COD-Size-23: 50900
+RIM-COD-URL-17: WidgetTest1-17.cod
+RIM-COD-Size-22: 50900
+RIM-COD-URL-16: WidgetTest1-16.cod
+RIM-COD-Size-21: 50892
+RIM-COD-URL-15: WidgetTest1-15.cod
+RIM-COD-Size-20: 50736
+RIM-COD-URL-14: WidgetTest1-14.cod
+RIM-COD-URL-13: WidgetTest1-13.cod
+RIM-COD-URL-12: WidgetTest1-12.cod
+RIM-COD-URL-11: WidgetTest1-11.cod
+RIM-COD-URL-10: WidgetTest1-10.cod
+RIM-COD-Size-19: 50928
+RIM-COD-Size-18: 50928
+RIM-COD-Size-17: 50916
+RIM-COD-Size-16: 53560
+RIM-COD-Size-15: 56560
+RIM-COD-Size-14: 50824
+RIM-COD-Size-13: 54808
+RIM-COD-Size-12: 50928
+RIM-COD-Size-11: 51660
+RIM-COD-Size-10: 50520
+MIDlet-1: WidgetTest1,resources/icon.png,rim:foreground;WIDGET;
+RIM-COD-SHA1: 31 44 0e 6f ee 3a 4b 13 0b 5b 4e ce 67 2e 2a 5d 0c 1d 4e ff
+RIM-COD-SHA1-45: 84 7f f6 d8 13 b2 c5 7e 28 21 b1 ca 5e 99 e1 a4 e5 43 02 f5
+RIM-COD-SHA1-44: ea 55 bf ca 56 ef 6e 47 7d ae dc f4 de e3 97 62 26 88 fe 37
+RIM-COD-SHA1-43: 19 ca 6e 49 fa c6 7c 20 6e ac bc 59 ea 33 a7 ca 46 12 a9 21
+RIM-COD-SHA1-42: 4a 27 43 35 31 1f c7 4a cf 47 2e 41 8b f1 b8 bb 56 3b 3b 69
+RIM-COD-SHA1-41: d6 c6 4c 75 80 9e fe 11 82 d8 79 8f 0c a8 a2 af c8 1e dd e3
+RIM-COD-SHA1-40: 96 e8 96 cb d8 9a ba e8 b4 71 9e 42 63 7b f1 5c 30 6f 03 99
+RIM-COD-SHA1-39: 1b 89 1c d9 a4 6d 01 32 c2 77 aa 33 56 cc 67 9a b5 79 c3 73
+RIM-COD-SHA1-38: ba dc 5f 75 31 fb 6d 0a 77 9c a5 dc de 18 dc 6d a6 66 98 46
+RIM-COD-SHA1-37: 1d c1 d1 86 a0 36 0c 76 3e 3f 05 84 99 28 40 b9 2c 82 88 19
+RIM-COD-SHA1-36: 09 b5 af 89 4c 50 a0 c0 e3 f7 ed 70 d5 e2 82 85 ef d7 b0 a3
+MIDlet-Jar-URL: WidgetTest1.jar
+RIM-COD-SHA1-35: db 40 81 6d 49 bf 0e fe 51 48 51 91 3b a8 57 53 e7 7b a0 ab
+RIM-COD-SHA1-34: 4c 9c e4 11 06 07 95 8f 26 7d ad ac 46 ab 85 2d 96 d5 7d d5
+RIM-COD-SHA1-33: cf 43 30 d4 7c 51 09 00 2c 74 29 a0 de 54 d2 7e 28 0b f8 b9
+RIM-COD-SHA1-32: e1 a4 ab 70 88 bb f5 2d 7c aa 87 65 ec 7c f7 b4 4a 00 56 62
+RIM-COD-SHA1-31: 18 bc 69 d1 57 28 9f 45 5c 29 56 be 0c 14 ba 25 06 a8 a0 94
+RIM-COD-SHA1-30: 7c ea ab da a3 b1 04 74 0f 09 66 32 19 e2 15 6d f7 bf fe 00
+RIM-COD-SHA1-9: ee 23 df be cd 0d 80 e0 8c 3f 3b 51 f4 15 ba 2b 0a 54 fb af
+RIM-COD-SHA1-8: 1b 54 fc bd b4 4c ee 01 1c 77 6d b6 8c 9d c7 b7 da 82 cf 88
+RIM-COD-SHA1-7: f5 08 48 4d c4 51 35 af 26 9e 44 5d b6 26 25 bc 16 2a 7b f5
+RIM-COD-SHA1-6: ac 06 44 d3 5f 07 70 fb 69 53 9e 4b 4f 84 43 6f 0d c3 da e4
+RIM-COD-SHA1-5: 04 d3 5c 3c 88 6b 2b 40 22 90 60 e5 df b5 02 ac c3 9f 43 d2
+RIM-COD-SHA1-4: 41 35 3a d1 31 93 0c 4e 65 85 4e 24 df 81 fd 0c 9b 07 b6 9b
+RIM-COD-SHA1-3: 63 5b 49 0c 34 ea 70 f7 03 45 54 95 eb c3 4a cd 7a 36 d5 3c
+RIM-COD-SHA1-2: 74 a7 2d b8 7d d8 36 83 8c 63 b5 a3 9c b5 0a f8 5c 9b af 54
+RIM-COD-SHA1-1: 67 90 b3 69 ce 72 e6 0b b7 7a a9 0c 11 94 24 d8 45 3e 31 27
+RIM-COD-SHA1-29: 30 67 39 df 88 62 2b 69 25 7c 64 6f ad d5 84 12 6d 8e 4f 92
+RIM-COD-SHA1-28: ba bf 8d 0a 3b 23 ff d8 84 67 0a e7 41 c3 a2 26 60 ea 7f da
+RIM-COD-SHA1-27: 1a 4f bb e7 0b 55 fe 03 e8 b1 1b 41 e8 44 93 a5 d7 17 ad d1
+RIM-COD-SHA1-26: 14 3b 38 1f d8 c0 f3 06 7a 00 b4 e7 bc 52 72 6f 74 19 90 b6
+RIM-COD-SHA1-25: 64 33 5b 81 73 a6 37 99 66 4f 9d 61 12 c8 15 7e d5 b5 4a cd
+RIM-COD-SHA1-24: 67 7a 16 3b a5 ac aa 55 02 b3 c7 6e cc c1 8b d1 c6 a5 a5 57
+RIM-COD-SHA1-23: 7a 71 0d 18 21 93 9c 44 57 ee 6b d5 79 80 5b e8 76 45 16 98
+RIM-COD-SHA1-22: fb ed 7c 75 3d a0 0e bb 96 ba 8e d5 b9 69 b7 52 e8 d2 41 65
+RIM-COD-SHA1-21: 16 11 d1 06 55 b3 ce 5a cd e7 a4 fa b6 11 49 5d b5 44 86 14
+RIM-COD-SHA1-20: 29 d2 d9 5b 47 a5 db 5f 06 fe 25 c8 a1 15 c9 94 a9 19 0d a6
+RIM-COD-Creation-Time: 1318445441
+RIM-COD-SHA1-19: 8e fe 5f fb 22 09 b6 a7 fb 04 8c 87 a6 ac 97 94 34 a3 20 db
+RIM-COD-SHA1-18: 98 7f e6 44 e7 3c cb af c3 53 15 d8 14 7e 5f 34 83 83 28 e0
+RIM-COD-SHA1-17: 1f c0 d4 4e 1a f8 72 93 32 23 8d 61 f2 e5 2f 1d c7 06 de fa
+RIM-COD-SHA1-16: e9 d9 0b 03 a4 3f 06 83 24 5e b7 43 2c c6 d6 22 e6 e5 c3 7f
+RIM-COD-SHA1-15: 82 58 14 e9 18 c6 62 7b dc 03 11 e1 95 1f a1 70 8d 8e 51 40
+RIM-COD-SHA1-14: 83 c9 ac 70 6e bb c3 d6 15 11 de b6 2e a5 71 d6 c0 05 8b 70
+RIM-COD-SHA1-13: ff ae 80 a1 be 9f e9 c8 18 b3 d7 30 f1 76 ce f1 e9 a4 cd f5
+RIM-COD-SHA1-12: 89 66 b6 c3 35 d5 32 ee a8 c6 04 83 f7 c1 f7 d1 37 21 0e 9d
+RIM-COD-SHA1-11: 8d 7b da 04 b1 7d 28 da 4c 66 38 8b 57 38 e3 15 57 e9 22 f7
+RIM-COD-SHA1-10: a8 97 a1 e6 17 23 4b fa 5e f7 6b 37 0d 87 29 21 20 43 4e 54
