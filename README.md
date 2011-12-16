@@ -100,7 +100,8 @@ Of course, if you find a better way to code something in one of the demos, pleas
         * Keep in mind that this has been designed on an Android DroidX, with a screen resolution of 320x544 
             - (Android version 2.3.3)
         * It was also designed to be in Portrait mode, but can work fine in Landscape.      
-        * While this doesn't show that much in the way of AC functionality, I wanted to include it to show use of Navigator within the IDE.
+        * While this doesn't show that much in the way of AC functionality, I wanted to include it to show use of 
+        Navigator within the IDE.
             
 [Online Demo](http://acft.ws/xfy)
 
@@ -126,7 +127,7 @@ Of course, if you find a better way to code something in one of the demos, pleas
         * On my DroidX, when attempting to take a picture and capture an image, it would restart my app.
             - I'll look further into this and update this repo        
             
-[Online Demo](http://acft.ws/dtq)
+[Online Demo](http://acft.ws/dtq)  (Keep in mind that this app is for a mobile device.)
 
 
 ### RSSFeeder:  Quick example of how an AC app can consume a RSS Feed and display the data in a three-panel Accordion.
